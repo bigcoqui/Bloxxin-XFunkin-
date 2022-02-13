@@ -580,11 +580,9 @@ class TitleState extends MusicBeatState
 					#end
 				case 7:
 					addMoreText('ROBLOX', -40);
-					ngSpr.visible = true;
 				// credTextShit.text += '\nNewgrounds';
 				case 8:
 					deleteCoolText();
-					ngSpr.visible = false;
 				// credTextShit.visible = false;
 
 				// credTextShit.text = 'Shoutouts Tom Fulp';
