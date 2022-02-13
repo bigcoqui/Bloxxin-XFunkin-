@@ -1,0 +1,19 @@
+{
+	"songs": [
+		["Not a Noob", "noob", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"noob",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"storyName": "Test",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
