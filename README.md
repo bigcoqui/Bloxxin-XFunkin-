@@ -65,6 +65,7 @@ _____________________________________
 ### Not a Noob:
   * Remastered Noob sprite!
   * New Funky Friday Background!
+
 ### Concerning Control:
   * Remastered Guest 666 sprite!
   * New Bloxburg Background!
