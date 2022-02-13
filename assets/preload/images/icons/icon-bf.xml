@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-bf.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bficonAnimated0000" x="5" y="5" width="134" height="79" frameX="0" frameY="-3" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0001" x="144" y="5" width="134" height="79" frameX="0" frameY="-3" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0002" x="5" y="5" width="134" height="79" frameX="0" frameY="-2" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0003" x="144" y="5" width="134" height="79" frameX="0" frameY="-2" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0004" x="144" y="5" width="134" height="79" frameX="0" frameY="-1" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0005" x="144" y="5" width="134" height="79" frameX="0" frameY="-1" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0006" x="283" y="5" width="134" height="79" frameX="0" frameY="-1" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0007" x="283" y="5" width="134" height="79" frameX="0" frameY="0" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0008" x="144" y="5" width="134" height="79" frameX="0" frameY="0" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0009" x="283" y="5" width="134" height="79" frameX="0" frameY="0" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0010" x="283" y="5" width="134" height="79" frameX="0" frameY="0" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0011" x="283" y="5" width="134" height="79" frameX="0" frameY="0" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0012" x="283" y="5" width="134" height="79" frameX="0" frameY="0" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0013" x="283" y="5" width="134" height="79" frameX="0" frameY="0" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonAnimated0014" x="422" y="5" width="134" height="79" frameX="0" frameY="0" frameWidth="134" frameHeight="82"/>
+	<SubTexture name="bficonDangerAnimated0000" x="561" y="5" width="135" height="79" frameX="-1" frameY="-8" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0001" x="701" y="5" width="135" height="79" frameX="-2" frameY="-6" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0002" x="841" y="5" width="135" height="79" frameX="-1" frameY="-5" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0003" x="5" y="89" width="135" height="79" frameX="-2" frameY="-3" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0004" x="145" y="89" width="135" height="79" frameX="-1" frameY="-2" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0005" x="285" y="89" width="135" height="79" frameX="-2" frameY="-2" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0006" x="425" y="89" width="135" height="79" frameX="0" frameY="-1" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0007" x="565" y="89" width="135" height="79" frameX="-2" frameY="-1" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0008" x="705" y="89" width="135" height="79" frameX="-1" frameY="-1" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0009" x="845" y="89" width="135" height="78" frameX="-2" frameY="-1" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0010" x="5" y="173" width="134" height="79" frameX="-1" frameY="0" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0011" x="144" y="173" width="135" height="79" frameX="-1" frameY="0" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0012" x="284" y="173" width="135" height="79" frameX="-1" frameY="0" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0013" x="424" y="173" width="135" height="79" frameX="-1" frameY="0" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonDangerAnimated0014" x="424" y="173" width="135" height="79" frameX="-1" frameY="-1" frameWidth="137" frameHeight="87"/>
+	<SubTexture name="bficonWinningAnimated0000" x="564" y="173" width="137" height="85" frameX="-2" frameY="-4" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0001" x="706" y="173" width="138" height="85" frameX="-1" frameY="-3" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0002" x="849" y="173" width="138" height="85" frameX="-1" frameY="-2" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0003" x="5" y="263" width="138" height="84" frameX="-1" frameY="-2" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0004" x="148" y="263" width="138" height="85" frameX="-1" frameY="-1" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0005" x="291" y="263" width="139" height="84" frameX="0" frameY="-1" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0006" x="435" y="263" width="139" height="84" frameX="0" frameY="-1" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0007" x="579" y="263" width="139" height="84" frameX="0" frameY="-1" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0008" x="723" y="263" width="139" height="85" frameX="0" frameY="0" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0009" x="867" y="263" width="139" height="85" frameX="0" frameY="0" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0010" x="5" y="353" width="139" height="85" frameX="0" frameY="0" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0011" x="149" y="353" width="139" height="85" frameX="0" frameY="0" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0012" x="293" y="353" width="139" height="85" frameX="0" frameY="0" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0013" x="293" y="353" width="139" height="85" frameX="0" frameY="0" frameWidth="139" frameHeight="89"/>
+	<SubTexture name="bficonWinningAnimated0014" x="437" y="353" width="139" height="85" frameX="0" frameY="0" frameWidth="139" frameHeight="89"/>
+</TextureAtlas>

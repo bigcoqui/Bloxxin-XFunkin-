@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-gf.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gficonAnimated0000" x="5" y="5" width="115" height="115" frameX="0" frameY="-4" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0001" x="125" y="5" width="115" height="116" frameX="0" frameY="-3" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0002" x="125" y="5" width="115" height="116" frameX="0" frameY="-2" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0003" x="245" y="5" width="115" height="115" frameX="0" frameY="-2" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0004" x="245" y="5" width="115" height="115" frameX="0" frameY="-1" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0005" x="245" y="5" width="115" height="115" frameX="0" frameY="-1" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0006" x="245" y="5" width="115" height="115" frameX="0" frameY="0" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0007" x="245" y="5" width="115" height="115" frameX="0" frameY="0" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0008" x="245" y="5" width="115" height="115" frameX="0" frameY="0" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0009" x="365" y="5" width="115" height="116" frameX="0" frameY="0" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0010" x="365" y="5" width="115" height="116" frameX="0" frameY="0" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0011" x="365" y="5" width="115" height="116" frameX="0" frameY="0" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0012" x="365" y="5" width="115" height="116" frameX="0" frameY="0" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0013" x="365" y="5" width="115" height="116" frameX="0" frameY="0" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonAnimated0014" x="245" y="5" width="115" height="115" frameX="0" frameY="0" frameWidth="115" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0000" x="485" y="5" width="133" height="115" frameX="0" frameY="-4" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0001" x="623" y="5" width="132" height="115" frameX="0" frameY="-3" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0002" x="760" y="5" width="132" height="116" frameX="0" frameY="-2" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0003" x="5" y="126" width="132" height="116" frameX="0" frameY="-1" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0004" x="142" y="126" width="132" height="116" frameX="0" frameY="-1" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0005" x="279" y="126" width="131" height="116" frameX="0" frameY="0" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0006" x="415" y="126" width="131" height="116" frameX="0" frameY="0" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0007" x="551" y="126" width="131" height="116" frameX="0" frameY="0" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0008" x="687" y="126" width="131" height="116" frameX="0" frameY="0" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0009" x="823" y="126" width="131" height="116" frameX="0" frameY="0" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0010" x="823" y="126" width="131" height="116" frameX="0" frameY="0" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0011" x="823" y="126" width="131" height="116" frameX="0" frameY="0" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0012" x="823" y="126" width="131" height="116" frameX="0" frameY="0" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0013" x="823" y="126" width="131" height="116" frameX="0" frameY="0" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonDangerAnimated0014" x="5" y="247" width="131" height="116" frameX="0" frameY="0" frameWidth="133" frameHeight="119"/>
+	<SubTexture name="gficonWinningAnimated0000" x="141" y="247" width="114" height="119" frameX="0" frameY="-5" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0001" x="260" y="247" width="114" height="118" frameX="0" frameY="-4" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0002" x="379" y="247" width="114" height="118" frameX="0" frameY="-3" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0003" x="498" y="247" width="114" height="116" frameX="0" frameY="-3" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0004" x="617" y="247" width="114" height="117" frameX="0" frameY="-2" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0005" x="736" y="247" width="114" height="117" frameX="0" frameY="-1" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0006" x="855" y="247" width="114" height="116" frameX="0" frameY="-1" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0007" x="5" y="371" width="114" height="117" frameX="0" frameY="0" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0008" x="124" y="371" width="114" height="116" frameX="0" frameY="0" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0009" x="243" y="371" width="115" height="116" frameX="0" frameY="0" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0010" x="363" y="371" width="115" height="116" frameX="0" frameY="0" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0011" x="483" y="371" width="114" height="116" frameX="0" frameY="0" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0012" x="602" y="371" width="115" height="115" frameX="0" frameY="0" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0013" x="722" y="371" width="115" height="115" frameX="0" frameY="0" frameWidth="115" frameHeight="124"/>
+	<SubTexture name="gficonWinningAnimated0014" x="842" y="371" width="115" height="115" frameX="0" frameY="0" frameWidth="115" frameHeight="124"/>
+</TextureAtlas>

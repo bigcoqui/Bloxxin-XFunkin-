@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Songs.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="song00000" x="5" y="5" width="115" height="138"/>
+	<SubTexture name="song10000" x="125" y="5" width="115" height="138"/>
+	<SubTexture name="song20000" x="245" y="5" width="115" height="154"/>
+	<SubTexture name="song30000" x="365" y="5" width="115" height="138"/>
+	<SubTexture name="song40000" x="5" y="164" width="115" height="138"/>
+</TextureAtlas>
