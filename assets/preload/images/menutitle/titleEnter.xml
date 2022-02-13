@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titleEnter.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PLAY0000" x="5" y="5" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0001" x="337" y="5" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0002" x="669" y="5" width="280" height="59" frameX="-31" frameY="-5" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0003" x="5" y="78" width="308" height="65" frameX="-17" frameY="-2" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0004" x="318" y="78" width="337" height="70" frameX="-3" frameY="0" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0005" x="660" y="78" width="343" height="71"/>
+	<SubTexture name="PLAY0006" x="5" y="154" width="335" height="69" frameX="-4" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0007" x="345" y="154" width="324" height="68" frameX="-9" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0008" x="674" y="154" width="321" height="67" frameX="-11" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0009" x="5" y="228" width="324" height="67" frameX="-9" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0010" x="334" y="228" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0011" x="666" y="228" width="329" height="68" frameX="-7" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0012" x="5" y="301" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0013" x="334" y="228" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0014" x="337" y="5" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0015" x="337" y="5" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0016" x="334" y="228" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0017" x="334" y="228" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0018" x="334" y="228" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0019" x="334" y="228" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0020" x="334" y="228" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0021" x="334" y="228" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0022" x="334" y="228" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+	<SubTexture name="PLAY0023" x="334" y="228" width="327" height="68" frameX="-8" frameY="-1" frameWidth="343" frameHeight="71"/>
+</TextureAtlas>
