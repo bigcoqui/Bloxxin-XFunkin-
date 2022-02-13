@@ -35,6 +35,40 @@ Psych Engine originally was used on [Mind Games Mod](https://gamebanana.com/mods
 
 __If you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml__
 
+### Windows-only dependencies (only for building *to* Windows. Building html5 on Windows does not require this)
+If you are planning to build for Windows, you also need to install **Visual Studio 2019**. While installing it, *don't click on any of the options to install workloads*. Instead, go to the **individual components** tab and choose the following:
+
+-   MSVC v142 - VS 2019 C++ x64/x86 build tools
+-   Windows SDK (10.0.17763.0)
+
+This will install about 4 GB of files, but is necessary to build for Windows.
+
+### macOS-only dependencies (these are required for building on macOS at all, including html5.)
+If you are running macOS, you'll need to install Xcode. You can download it from the macOS App Store or from the [Xcode website](https://developer.apple.com/xcode/).
+
+If you get an error telling you that you need a newer macOS version, you need to download an older version of Xcode from the [More Software Downloads](https://developer.apple.com/download/more/) section of the Apple Developer website. (You can check which version of Xcode you need for your macOS version on [Wikipedia's comparison table (in the `min macOS to run` column)](https://en.wikipedia.org/wiki/Xcode#Version_comparison_table).)
+
+## Cloning the repository
+Since you already installed `git` in a previous step, we'll use it to clone the repository.
+1. `cd` to where you want to store the source code (i.e. `C:\Users\username\Desktop` or `~/Desktop`)
+2. `git clone https://github.com/KadeDev/Kade-Engine.git`
+3. `cd` into the source code: `cd Kade-Engine`
+4. (optional) If you want to build a specific version of Kade Engine, you can use `git checkout` to switch to it (i.e. `git checkout 1.4-KE`) (remember that versions 1.4 and older cannot build to Linux or HTML5)
+- You should **not** do this if you are planning to contribute, as you should always be developing on the latest version.
+
+## Building
+Finally, we are ready to build.
+
+- Run `lime build <target>`, replacing `<target>` with the platform you want to build to (`windows`, `mac`, `linux`, `html5`) (i.e. `lime build windows`)
+- The build will be in `Kade-Engine/export/release/<target>/bin`, with `<target>` being the target you built to in the previous step. (i.e. `Kade-Engine/export/release/windows/bin`)
+- Incase you added the -debug flag the files will be inside `Kade-Engine/export/debug/<target>/bin`
+- Only the `bin` folder is necessary to run the game. The other ones in `export/release/<target>` are not.
+
+## Troubleshooting
+Check the **Troubleshooting documentation** if you have problems with these instructions.
+
+_____________________________________
+
 ## Modders under the Bloxxin'XFunkin' Mod:
 * AbraX - Coding, Arts, Animations, Music, Charting, etc.
 
