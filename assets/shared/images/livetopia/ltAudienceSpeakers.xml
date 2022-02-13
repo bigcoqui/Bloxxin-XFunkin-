@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ltAudienceSpeakers.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="audienceSpeakers0000" x="5" y="5" width="774" height="617" frameX="-14" frameY="0" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0001" x="784" y="5" width="788" height="613" frameX="0" frameY="-4" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0002" x="1577" y="5" width="785" height="615" frameX="-3" frameY="-2" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0003" x="2367" y="5" width="782" height="615" frameX="-6" frameY="-2" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0004" x="3154" y="5" width="780" height="616" frameX="-8" frameY="-1" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0005" x="5" y="627" width="780" height="616" frameX="-8" frameY="-1" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0006" x="790" y="627" width="778" height="617" frameX="-10" frameY="0" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0007" x="1573" y="627" width="777" height="617" frameX="-11" frameY="0" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0008" x="2355" y="627" width="776" height="617" frameX="-12" frameY="0" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0009" x="3136" y="627" width="775" height="617" frameX="-13" frameY="0" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0010" x="5" y="1249" width="775" height="617" frameX="-13" frameY="0" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0011" x="785" y="1249" width="775" height="617" frameX="-13" frameY="0" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0012" x="1565" y="1249" width="774" height="617" frameX="-14" frameY="0" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0013" x="2344" y="1249" width="774" height="617" frameX="-14" frameY="0" frameWidth="788" frameHeight="617"/>
+	<SubTexture name="audienceSpeakers0014" x="3123" y="1249" width="774" height="617" frameX="-14" frameY="0" frameWidth="788" frameHeight="617"/>
+</TextureAtlas>
