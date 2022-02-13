@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "GCRIdle"
+		},
+		{
+			"offsets": [
+				105,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "GCRLeft"
+		},
+		{
+			"offsets": [
+				42,
+				-27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "GCRRight"
+		},
+		{
+			"offsets": [
+				39,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "GCRUp"
+		},
+		{
+			"offsets": [
+				-25,
+				-76
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "GCRDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CursedGuest_Assets",
+	"position": [
+		0,
+		-150
+	],
+	"danceIdle": true,
+	"healthicon": "cursedguest",
+	"flip_x": false,
+	"healthbar_colors": [
+		17,
+		17,
+		17
+	],
+	"camera_position": [
+		50,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

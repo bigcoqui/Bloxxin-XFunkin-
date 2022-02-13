@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				132,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NoobLeft"
+		},
+		{
+			"offsets": [
+				38,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NoobDown"
+		},
+		{
+			"offsets": [
+				24,
+				112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NoobUp"
+		},
+		{
+			"offsets": [
+				88,
+				-73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NoobRight"
+		},
+		{
+			"offsets": [
+				-5,
+				-66
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "NoobIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Noob_Assets",
+	"position": [
+		100,
+		220
+	],
+	"healthicon": "noob",
+	"flip_x": false,
+	"healthbar_colors": [
+		244,
+		204,
+		67
+	],
+	"camera_position": [
+		-170,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"danceIdle": false
+}

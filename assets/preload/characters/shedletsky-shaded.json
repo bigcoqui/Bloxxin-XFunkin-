@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "shedletskyleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "shedletskydown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "shedletskyup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "shedletskyright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				3
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "shedletskyIdle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				3
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "shedletskyIdle",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ShedletskyShaded_Assets",
+	"position": [
+		-70,
+		200
+	],
+	"danceIdle": true,
+	"healthicon": "shedletsky",
+	"flip_x": false,
+	"healthbar_colors": [
+		244,
+		204,
+		67
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

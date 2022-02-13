@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "baconIdle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "baconIdle",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "baconLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-127,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "baconDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				66
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "baconUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "baconRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bacon_Assets",
+	"position": [
+		0,
+		270
+	],
+	"danceIdle": true,
+	"healthicon": "bacon",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		213,
+		206
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
