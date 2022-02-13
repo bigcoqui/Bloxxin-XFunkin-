@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="go.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GO!0000" x="5" y="5" width="317" height="19" frameX="-77" frameY="-113" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0001" x="327" y="5" width="337" height="42" frameX="-61" frameY="-105" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0002" x="669" y="5" width="400" height="129" frameX="-12" frameY="-63" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0003" x="1074" y="5" width="418" height="185" frameX="-18" frameY="-28" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0004" x="1497" y="5" width="439" height="184" frameX="-11" frameY="-10" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0005" x="5" y="195" width="436" height="173" frameX="-5" frameY="-26" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0006" x="446" y="195" width="441" height="188" frameX="0" frameY="-25" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0007" x="892" y="195" width="451" height="204" frameX="0" frameY="-8" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0008" x="1348" y="195" width="451" height="208" frameX="0" frameY="-7" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0009" x="5" y="408" width="454" height="213" frameX="0" frameY="-2" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0010" x="464" y="408" width="455" height="216" frameX="0" frameY="0" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0011" x="924" y="408" width="455" height="216" frameX="0" frameY="0" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0012" x="1384" y="408" width="455" height="216" frameX="0" frameY="0" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0013" x="5" y="629" width="455" height="217" frameX="0" frameY="-1" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0014" x="465" y="629" width="456" height="227" frameX="0" frameY="-1" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0015" x="926" y="629" width="457" height="239" frameX="0" frameY="-3" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0016" x="1388" y="629" width="458" height="255" frameX="0" frameY="-7" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0017" x="5" y="889" width="461" height="249" frameX="0" frameY="-13" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0018" x="471" y="889" width="465" height="240" frameX="0" frameY="-22" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0019" x="941" y="889" width="469" height="225" frameX="0" frameY="-37" frameWidth="474" frameHeight="262"/>
+	<SubTexture name="GO!0020" x="1415" y="889" width="474" height="201" frameX="0" frameY="-61" frameWidth="474" frameHeight="262"/>
+</TextureAtlas>

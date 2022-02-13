@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="healthBar-downScroll.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="healthbar downscroll0000" x="5" y="5" width="681" height="156" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0001" x="5" y="5" width="681" height="156" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0002" x="5" y="5" width="681" height="156" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0003" x="5" y="5" width="681" height="156" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0004" x="5" y="166" width="681" height="157" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0005" x="5" y="328" width="681" height="158" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0006" x="5" y="491" width="681" height="159" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0007" x="5" y="655" width="681" height="160" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0008" x="5" y="655" width="681" height="160" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0009" x="5" y="655" width="681" height="160" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0010" x="5" y="820" width="681" height="161"/>
+	<SubTexture name="healthbar downscroll0011" x="5" y="655" width="681" height="160" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0012" x="5" y="655" width="681" height="160" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0013" x="5" y="655" width="681" height="160" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0014" x="5" y="491" width="681" height="159" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0015" x="5" y="328" width="681" height="158" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0016" x="5" y="166" width="681" height="157" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0017" x="5" y="5" width="681" height="156" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0018" x="5" y="5" width="681" height="156" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0019" x="5" y="5" width="681" height="156" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+	<SubTexture name="healthbar downscroll0020" x="5" y="5" width="681" height="156" frameX="0" frameY="0" frameWidth="681" frameHeight="161"/>
+</TextureAtlas>
