@@ -86,7 +86,7 @@ class WeekData {
 		var modsListPath:String = 'modsList.txt';
 		var directories:Array<String> = [Paths.mods(), Paths.getPreloadPath()];
 		var originalLength:Int = directories.length;
-		if(FileSystem.exists(modsListPath))
+		if(OpenFlAssets.exists(modsListPath))
 		{
 			var stuff:Array<String> = CoolUtil.coolTextFile(modsListPath);
 			for (i in 0...stuff.length)
@@ -151,18 +151,18 @@ class WeekData {
 		#if MODS_ALLOWED
 		for (i in 0...directories.length) {
 			var directory:String = directories[i] + 'weeks/';
-			if(FileSystem.exists(directory)) {
+			if(OpenFlAssets.exists(directory)) {
 				var listOfWeeks:Array<String> = CoolUtil.coolTextFile(directory + 'weekList.txt');
 				for (daWeek in listOfWeeks)
 				{
 					var path:String = directory + daWeek + '.json';
-					if(sys.FileSystem.exists(path))
+					if(OpenFlAssets.exists(path))
 					{
 						addWeek(daWeek, path, directories[i], i, originalLength);
 					}
 				}
 
-				for (file in FileSystem.readDirectory(directory))
+				for (file in directory)
 				{
 					var path = haxe.io.Path.join([directory, file]);
 					if (!sys.FileSystem.isDirectory(path) && file.endsWith('.json'))
