@@ -202,7 +202,7 @@ class Paths
 	#if MODS_ALLOWED
 	inline static private function returnSongFile(file:String):Sound
 	{
-		if(FileSystem.exists(file)) {
+		if(OpenFlAssets.exists(file)) {
 			if(!customSoundsLoaded.exists(file)) {
 				customSoundsLoaded.set(file, Sound.fromFile(file));
 			}
@@ -239,20 +239,20 @@ class Paths
 			return File.getContent(mods(key));
 		#end
 
-		if (FileSystem.exists(getPreloadPath(key)))
-			return File.getContent(getPreloadPath(key));
+		if (OpenFlAssets.exists(getPreloadPath(key)))
+			return OpenFlAssets.getText(getPreloadPath(key));
 
 		if (currentLevel != null)
 		{
 			var levelPath:String = '';
 			if(currentLevel != 'shared') {
 				levelPath = getLibraryPathForce(key, currentLevel);
-				if (FileSystem.exists(levelPath))
+				if (OpenFlAssets.exists(levelPath))
 					return File.getContent(levelPath);
 			}
 
 			levelPath = getLibraryPathForce(key, 'shared');
-			if (FileSystem.exists(levelPath))
+			if (OpenFlAssets.exists(levelPath))
 				return File.getContent(levelPath);
 		}
 		#end
@@ -263,7 +263,7 @@ class Paths
 	{
 		#if MODS_ALLOWED
 		var file:String = modsFont(key);
-		if(FileSystem.exists(file)) {
+		if(OpenFlAssets.exists(file)) {
 			return file;
 		}
 		#end
